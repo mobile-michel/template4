@@ -1,4 +1,6 @@
-# Eleventy, Liquid, Pico & Blueprint with navbar
+# Template 4a
+
+## Eleventy, Liquid, Pico & Blueprint with navbar
 
 1. Installation
 2. Layout with global data
